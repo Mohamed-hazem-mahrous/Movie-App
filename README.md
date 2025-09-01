@@ -6,7 +6,7 @@ With a clean UI and responsive design, you can quickly discover trending movies,
 ---
 
 ## 🌐 Live Demo
-👉 [Visit the Website](#)  
+👉 [Visit the Website](https://movie-app-fawn-three.vercel.app/)  
 
 ---
 
